@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;gap: 20px">
   <img width='50' alt="Html Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img width='50' alt="Css Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
   <img width='50' alt="Bootstrap Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
