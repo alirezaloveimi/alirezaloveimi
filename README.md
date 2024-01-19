@@ -2,7 +2,7 @@
 
 ### A Junior frontend developer
 
-### Languages and Tools :
+### My expertise :
 
 <div style="display: flex; align-items: center;gap: 20px">
   <img width='50' alt="Html Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
