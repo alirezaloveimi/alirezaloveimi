@@ -1,13 +1,11 @@
-# Hi 👋, I'm Alireza
+### 💬 About Me  
+`coding all the time, living sometimes.`  
+Always learning. Always building.
 
-### A Junior frontend developer
-
-### My expertise :
-
-<div style="display: flex; align-items: center;gap: 20px">
-  <img width='50' alt="Html Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-  <img width='50' alt="Css Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-  <img width='50' alt="Tailwindcss Image" height='50' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img width='50' alt="Java Script Image" height='50' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img width='50' alt="React Image" height='50' src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-</div>
+### ⚒️ Tech I Use  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
