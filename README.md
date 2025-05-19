@@ -1,5 +1,5 @@
 ### 💬 About Me  
-`coding all the time, living sometimes.`  
+Coding all the time, living sometimes😁
 Always learning. Always building.
 
 ### ⚒️ Tech I Use  
